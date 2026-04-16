@@ -98,7 +98,7 @@ Smart-Form-AI/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/smart-form-ai.git
+git clone https://github.com/moinmj/smart-form-ai.git
 cd smart-form-ai
 ```
 
