@@ -1,4 +1,4 @@
-####🧠 1. PROJECT OVERVIEW
+#### 1. PROJECT OVERVIEW
 
 Smart Form AI is an AI-powered system designed to automatically analyze, understand, and fill online forms using:
 
